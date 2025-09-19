@@ -10,3 +10,4 @@ EMAIL_USER=usuario@email.com;
 EMAIL_PASSWORD=emailPasswd
 ```
 
+teste
